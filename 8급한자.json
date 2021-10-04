@@ -1,3 +1,6 @@
+{
+"name": "8급한자",
+"cards":
 [{"question":"校","answer":"학교 교"},
 {"question":"敎","answer":"가르칠 교"},
 {"question":"九","answer":"아홉 구"},
@@ -48,3 +51,4 @@
 {"question":"韓","answer":"한국 한, 나라 한"},
 {"question":"兄","answer":"형 형"},
 {"question":"火","answer":"불 화"}]
+}
